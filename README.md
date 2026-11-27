@@ -4,7 +4,8 @@ Instrukce, které si načteš do Claude Code a necháš je provést. Zprovozní 
 Claude a desktopovým klientem **EasyEDA Pro** a pak ověří, že to opravdu funguje — od
 umístění jediného rezistoru až po celý návrh desky s čistým DRC.
 
-Patří k článku na [ok2mtw.blogspot.com](https://ok2mtw.blogspot.com/).
+Patří k článku [**EasyEDA přes Claude Code**](https://ok2mtw.blogspot.com/2026/11/easyeda-pres-claude-code.html)
+na blogu OK2MTW.
 
 > [!WARNING]
 > **Hobby projekt, ne produkt.** Nikdo za něj neručí a nikdo nenese odpovědnost za škody,
