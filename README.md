@@ -14,6 +14,18 @@ Patří k článku na [ok2mtw.blogspot.com](https://ok2mtw.blogspot.com/).
 > limitu a **větší projekt ti denní nebo týdenní limit může vyčerpat celý**. Pouštěj to ve
 > chvíli, kdy ten limit zrovna nepotřebuješ na práci.
 
+> [!CAUTION]
+> **Přečti si ty soubory, než je pustíš.** Nejsou to instrukce pro tebe, je to text, který
+> **vykoná Claude** — udělá, co v nich stojí, včetně instalací, příkazů a otevírání odkazů.
+> Jsou krátké a v čisté češtině, zabere to pár minut.
+>
+> Platí to i o těchhle. Repozitář spravuju já, ale kdyby se k němu někdo dostal, podstrčený
+> odkaz nebo příkaz poznáš jedině tak, že se podíváš. Ber to jako návyk, ne jako nedůvěru:
+> instrukce pro agenta stažené odkudkoliv si přečti dřív, než je spustíš.
+>
+> Jestli ti něco nesedí, porovnej si to s
+> [historií commitů](https://github.com/OK2MTW/easyeda-claude-code/commits/main).
+
 ## Co je tu
 
 | Soubor | K čemu |
