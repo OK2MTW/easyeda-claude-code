@@ -80,6 +80,11 @@ při převodu do PCB.*
 *Test 2, fáze C — deska odroutovaná, DRC bez chyb. Zem je rozlitá na obou vrstvách a sešitá
 prokovy. Dvojice prokovů vlevo dole je přeskok napájení pro enable.*
 
+![3D náhled osazené desky](obrazky/test2-3d.png)
+
+*Táž deska ve 3D náhledu. Pozor na tlumivku: na modelu má napsáno `6R8`, osazená je přitom
+TDK CLF10040T-4R7N-D, tedy 4,7 µH. 3D ukazuje modely z knihovny, ne hodnoty tvých součástek.*
+
 ## Co ti to nepohlídá
 
 Claude je silný ve výpočtech a v tom, že nezapomene spustit kontrolu. Slabý je v layoutu
